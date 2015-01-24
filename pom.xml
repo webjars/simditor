@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>simditor</artifactId>
-    <version>2.0.4-SNAPSHOT</version>
+    <version>2.0.4</version>
     <name>Simditor</name>
     <description>WebJar for Simditor</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/simditor</url>
         <connection>scm:git:https://github.com/webjars/simditor.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/simditor.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>simditor-2.0.4</tag>
     </scm>
     
     <build>
